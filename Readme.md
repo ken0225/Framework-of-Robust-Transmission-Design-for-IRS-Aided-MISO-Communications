@@ -6,7 +6,7 @@ This is a code package is related to the follow scientific article:
 
 ## G. Zhou, C. Pan, H. Ren, K. Wang and A. Nallanathan, "[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://ieeexplore.ieee.org/abstract/document/9180053)," in IEEE Transactions on Signal Processing, vol. 68, pp. 5092-5106, 2020
 
-### If you in any way use this code for research that results in publications, please cite the original article listed above.
+### This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
 
 All the Matlab code is just for reference, so that readers can understand the algorithms used
 in our papers. Install the MOSEK tool before running the supplied code.
