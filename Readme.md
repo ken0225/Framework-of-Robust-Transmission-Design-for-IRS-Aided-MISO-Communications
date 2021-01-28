@@ -1,4 +1,4 @@
-### The authors hve authorized to publish this code package by ken0225
+### The authors have authorized ken0225 to publish this code package.
 
 # Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications
 
