@@ -16,8 +16,7 @@ for IRS-aided MISO communications with imperfect cascaded channels”. Since the
 code of the “OUTAGE CONSTRAINED ROBUST BEAMFORMING DESIGN” in TSP2020 is not in
 hand, we recommend the following two pieces of code for interested readers.
 
-1. File folder “Globecom2020” is the Matlab code of the Conference “Globecom2020-
-Outage Constrained Transmission Design for IRS-aided Communications with Imperfect
+1. File folder “Globecom2020” is the Matlab code of the Conference “Globecom2020-Outage Constrained Transmission Design for IRS-aided Communications with Imperfect
 Cascaded Channels”. The only difference between Globecom2020 and TSP2020 is that
 the passive beamforming e is designed by using SDR method in Globecom2020 and by
 using PCCP method in 2020TSP.
